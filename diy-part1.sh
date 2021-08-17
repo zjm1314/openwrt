@@ -17,3 +17,5 @@
 #echo 'src-git helloworld https://github.com/fw876/helloworld' >>feeds.conf.default
 #echo 'src-git passwall https://github.com/xiaorouji/openwrt-passwall' >>feeds.conf.default
 git clone https://github.com.cnpmjs.org/schen39/luci-app-serverchan.git package/lean/luci-app-serverchan
+git clone https://github.com.cnpmjs.org/ivechan/mentohust-SYSU.git package/lean/mentohust-SYSU
+git clone https://github.com.cnpmjs.org/updateing/minieap.git package/lean/minieap
